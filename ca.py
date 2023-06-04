@@ -62,7 +62,7 @@ class CA:
 
         Examples
         --------
-        see test_ca.py and test_mca.py
+        see https://github.com/YiChanLee/correspondence-analysis
         """
         # total number of components to be kept
         self.n_components = n_components
